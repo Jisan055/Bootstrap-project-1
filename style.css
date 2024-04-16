@@ -1,0 +1,27 @@
+body{
+    font-family: "Roboto", sans-serif;
+    
+}
+header{
+    background: rgb(25, 56, 191);
+    background: linear-gradient(0deg, rgb(82, 217, 251) 0%, rgb(1, 84, 238) 100%);
+}
+.nav-link:hover{
+    color:blue ;
+}
+i{
+    background-color: rgb(88, 191, 243);
+    color: rgb(255, 255, 255);
+    font-size:30px;
+    margin-bottom: 18px;
+}
+img:hover{
+    transition: 0.5s;
+    opacity: 1;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+img{
+    background-color: red;
+    opacity: 0.95;
+}
